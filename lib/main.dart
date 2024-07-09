@@ -54,7 +54,7 @@ class _HomeScreenState extends State<HomeScreen> {
                 MaterialPageRoute(builder: (context) => Newscreen()),
               );
             },
-            child: Text('Product Page'),
+            child: Text('Product cart Page'),
           ),
         ],
       ),
